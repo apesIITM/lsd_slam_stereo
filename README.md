@@ -1,2 +1,2 @@
 # lsd_slam_stereo
-LSD-SLAM with Stereo Cameras
+LSD-SLAM-STEREO with Stereo Cameras
